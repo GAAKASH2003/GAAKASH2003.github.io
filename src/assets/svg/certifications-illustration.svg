@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-labelledby="title">
+  <title id="title">Professional certificate with a verified award seal</title>
+  <ellipse cx="303" cy="210" rx="235" ry="181" fill="#FFF0E7"/>
+  <ellipse cx="303" cy="390" rx="216" ry="13" fill="#F7DDCD"/>
+  <rect x="103" y="93" width="390" height="263" rx="22" fill="#F3CEB9"/>
+  <g stroke="#D8572C" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="103" y="79" width="390" height="263" rx="22" fill="#FFFFFF"/>
+    <rect x="124" y="100" width="348" height="221" rx="12" fill="#FFFAF6" stroke="#F7CCB5" stroke-width="3"/>
+    <path d="m254 139 44-22 44 22-44 22Z" fill="#F56539"/>
+    <path d="M270 148v22c18 12 38 12 56 0v-22m16-9v31" fill="none" stroke-width="5"/>
+    <path d="M190 205h216" stroke="#F56539" stroke-width="12"/>
+    <path d="M211 233h174m-160 23h146" stroke="#EFBEA3" stroke-width="8"/>
+    <path d="m153 290 14-14 13 17 15-11 17 9" fill="none" stroke-width="4"/>
+    <path d="m372 318-19 62 33-12 20 21 18-58m7-13 18 62-31-11-21 20-17-57" fill="#F56539"/>
+    <path d="m400 257 14 9 17-1 7 16 14 10-3 18 3 17-14 10-7 16-17-1-14 9-14-9-17 1-7-16-14-10 3-17-3-18 14-10 7-16 17 1Z" fill="#FFD9BA"/>
+    <circle cx="400" cy="309" r="29" fill="#FFFFFF" stroke-width="4"/>
+    <path d="m386 309 10 10 19-22" fill="none" stroke="#F56539"/>
+    <path d="m75 150-12-8m441-96 9-15m58 200 15 3" fill="none" stroke="#F56539" stroke-width="8"/>
+  </g>
+  <circle cx="170" cy="49" r="8" fill="#F8C5A7"/><circle cx="523" cy="126" r="7" fill="#F8C5A7"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Online chess match with opposing pieces and synchronized players</title>
+  <defs>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#FF9569"/><stop offset="1" stop-color="#F56539"/></linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="48" fill="#FFF9F5"/>
+  <ellipse cx="600" cy="350" rx="305" ry="248" fill="#FFECE2"/>
+  <ellipse cx="600" cy="615" rx="300" ry="15" fill="#F5DECF"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+<rect x="313" y="115" width="574" height="499" rx="26" fill="#F2D8C9" stroke="none" stroke-width="0"/><rect x="313" y="105" width="574" height="499" rx="26" fill="#FFFFFF" stroke="#F7C9B2" stroke-width="5"/>
+<defs><pattern id="squares" width="109.5" height="109.5" patternUnits="userSpaceOnUse" x="381" y="135"><rect width="109.5" height="109.5" fill="#FFF4EC"/><path d="M0 0h54.75v54.75H0Zm54.75 54.75h54.75v54.75H54.75Z" fill="#F7C5A6"/></pattern></defs>
+<rect x="381" y="135" width="438" height="438" rx="12" fill="url(#squares)" stroke="#E9AD8D" stroke-width="5"/>
+<path d="M481 208v54m-23-32h46m-58 69h69l-14 69 27 31H432l27-31-13-69Z" fill="#FFFFFF" stroke="#B44D29" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M426 408h108v20H426Z" fill="#FFFFFF" stroke="#B44D29" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M650 327h66l39 43-39 7-12 59 31 21H628l27-35-19-46 38-28Z" fill="url(#accent)" stroke="#B44D29" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="693" cy="346" r="6" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="625" y="467" width="114" height="24" rx="8" fill="#F56539" stroke="#B44D29" stroke-width="7"/>
+<rect x="106" y="210" width="171" height="148" rx="26" fill="#F2D8C9" stroke="none" stroke-width="0"/><rect x="106" y="200" width="171" height="148" rx="26" fill="#FFFFFF" stroke="#F7C9B2" stroke-width="5"/><circle cx="191" cy="244" r="22" fill="#FFD1B9" stroke="#D8572C" stroke-width="5"/><path d="M154 310c0-46 74-46 74 0" fill="#FFF0E7" stroke="#D8572C" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="923" y="359" width="171" height="148" rx="26" fill="#F2D8C9" stroke="none" stroke-width="0"/><rect x="923" y="349" width="171" height="148" rx="26" fill="#FFFFFF" stroke="#F7C9B2" stroke-width="5"/><circle cx="1008" cy="393" r="22" fill="#F56539" stroke="#D8572C" stroke-width="5"/><path d="M971 459c0-46 74-46 74 0" fill="#FFD1B9" stroke="#D8572C" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M276 270h35m576 155h36" fill="none" stroke="#E7A582" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M175 404c35-40 69-22 69 10m-18-14 18 14 12-20M1025 252c-35 40-69 22-69-10m18 14-18-14-12 20" fill="none" stroke="#F56539" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+
+  </g>
+</svg>

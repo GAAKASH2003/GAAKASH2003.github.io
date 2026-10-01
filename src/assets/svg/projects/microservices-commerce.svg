@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Online storefront connected to products, payments, delivery and databases</title>
+  <defs>
+    <linearGradient id="shop-accent" x2="1" y2="1">
+      <stop stop-color="#FF9569"/>
+      <stop offset="1" stop-color="#F56539"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="48" fill="#FFF9F5"/>
+  <ellipse cx="600" cy="355" rx="275" ry="260" fill="#FFECE2"/>
+  <ellipse cx="600" cy="601" rx="210" ry="17" fill="#F8D8C8"/>
+
+  <!-- Routed connections stay behind the service tiles and storefront. -->
+  <g fill="none" stroke="#F5B497" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M330 225h45v90h65M870 225h-45v90h-65"/>
+    <path d="M330 490h45v-55h65M870 490h-45v-55h-65"/>
+  </g>
+  <g fill="#F56539">
+    <circle cx="375" cy="275" r="11"/><circle cx="825" cy="275" r="11"/>
+    <circle cx="375" cy="465" r="11"/><circle cx="825" cy="465" r="11"/>
+  </g>
+
+  <!-- Equal-size service tiles with centered, recognizable icons. -->
+  <g fill="#F8DFD2">
+    <rect x="114" y="143" width="216" height="180" rx="30"/>
+    <rect x="870" y="143" width="216" height="180" rx="30"/>
+    <rect x="114" y="408" width="216" height="180" rx="30"/>
+    <rect x="870" y="408" width="216" height="180" rx="30"/>
+  </g>
+  <g fill="#FFFFFF" stroke="#F8C9B3" stroke-width="5">
+    <rect x="114" y="135" width="216" height="180" rx="30"/>
+    <rect x="870" y="135" width="216" height="180" rx="30"/>
+    <rect x="114" y="400" width="216" height="180" rx="30"/>
+    <rect x="870" y="400" width="216" height="180" rx="30"/>
+  </g>
+
+  <!-- Product parcel. -->
+  <g stroke="#D8572C" stroke-width="8" stroke-linejoin="round">
+    <path d="m222 172 57 29v63l-57 29-57-29v-63Z" fill="#FFF0E7"/>
+    <path d="m165 201 57 29 57-29m-57 29v63" fill="none"/>
+    <path d="m194 186 57 29v24" fill="none"/>
+  </g>
+
+  <!-- Payment card. -->
+  <rect x="910" y="183" width="136" height="86" rx="14" fill="#FFF0E7" stroke="#D8572C" stroke-width="8"/>
+  <path d="M914 209h128" stroke="#F56539" stroke-width="17"/>
+  <path d="M928 245h30m21 0h12" stroke="#D8572C" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Delivery truck. -->
+  <g stroke="#D8572C" stroke-width="8" stroke-linejoin="round">
+    <path d="M151 449h83v70h-83Z" fill="#FFF0E7"/>
+    <path d="M234 470h35l22 24v25h-57Z" fill="#FFD1B9"/>
+    <path d="M249 482h14l12 14h-26Z" fill="#FFFFFF" stroke="none"/>
+    <circle cx="179" cy="522" r="15" fill="#FFFFFF"/>
+    <circle cx="266" cy="522" r="15" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Persistent service data. -->
+  <g stroke="#D8572C" stroke-width="8">
+    <path d="M930 454v70c0 24 96 24 96 0v-70" fill="#FFF0E7"/>
+    <ellipse cx="978" cy="454" rx="48" ry="17" fill="#FFD1B9"/>
+    <path d="M930 478c0 24 96 24 96 0m-96 23c0 24 96 24 96 0" fill="none"/>
+  </g>
+
+  <!-- Central storefront: striped awning, display window and shopping bag. -->
+  <rect x="436" y="245" width="328" height="335" rx="24" fill="#F2CDB9"/>
+  <rect x="436" y="231" width="328" height="335" rx="24" fill="#FFFFFF" stroke="#D8572C" stroke-width="8"/>
+  <path d="m460 196-40 73h360l-40-73Z" fill="url(#shop-accent)" stroke="#D8572C" stroke-width="8" stroke-linejoin="round"/>
+  <path d="m516 196-18 73h61l6-73Zm119 0 6 73h61l-18-73Z" fill="#FFF2E9"/>
+  <path d="M420 269v17a30 30 0 0 0 60 0 30 30 0 0 0 60 0 30 30 0 0 0 60 0 30 30 0 0 0 60 0 30 30 0 0 0 60 0 30 30 0 0 0 60 0v-17Z" fill="#F56539" stroke="#D8572C" stroke-width="8" stroke-linejoin="round"/>
+  <rect x="470" y="342" width="260" height="189" rx="18" fill="#FFF3EB"/>
+  <path d="M550 403h100l12 94H538Z" fill="url(#shop-accent)" stroke="#D8572C" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M576 410v-25a24 24 0 0 1 48 0v25" fill="none" stroke="#D8572C" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="655" cy="487" r="29" fill="#FFFFFF" stroke="#D8572C" stroke-width="7"/>
+  <path d="m643 487 9 9 16-19" fill="none" stroke="#F56539" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Decentralized token exchange with a wallet, swap arrows and a smart contract</title>
+  <defs>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#FF9569"/><stop offset="1" stop-color="#F56539"/></linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="48" fill="#FFF9F5"/>
+  <ellipse cx="600" cy="350" rx="305" ry="248" fill="#FFECE2"/>
+  <ellipse cx="600" cy="615" rx="300" ry="15" fill="#F5DECF"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M350 339h106m288 0h106M600 437v54" fill="none" stroke="#EFB295" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="600" cy="331" r="129" fill="#FFFFFF" stroke="#F5C6AD" stroke-width="7"/>
+<path d="M514 301h163l-27-27m27 27-27 27M686 365H523l27-27m-27 27 27 27" fill="none" stroke="#F56539" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="111" y="182" width="243" height="309" rx="26" fill="#F2D8C9" stroke="none" stroke-width="0"/><rect x="111" y="172" width="243" height="309" rx="26" fill="#FFFFFF" stroke="#F7C9B2" stroke-width="5"/>
+<circle cx="232" cy="284" r="75" fill="#FFE5D6" stroke="#D8572C" stroke-width="7"/>
+<path d="m232 226 35 58-35 21-35-21Z" fill="url(#accent)" stroke="#D8572C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m197 295 35 48 35-48-35 21Z" fill="#F8BC98" stroke="#D8572C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M154 401h157" fill="none" stroke="#EDB89D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M154 429h111" fill="none" stroke="#EDB89D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="846" y="182" width="243" height="309" rx="26" fill="#F2D8C9" stroke="none" stroke-width="0"/><rect x="846" y="172" width="243" height="309" rx="26" fill="#FFFFFF" stroke="#F7C9B2" stroke-width="5"/>
+<rect x="875" y="245" width="185" height="127" rx="19" fill="#FFE5D6" stroke="#D8572C" stroke-width="7"/>
+<rect x="976" y="280" width="84" height="57" rx="12" fill="#FFFFFF" stroke="#D8572C" stroke-width="6"/><circle cx="1003" cy="308" r="8" fill="#F56539" stroke="none" stroke-width="0"/>
+<path d="M890 245v-23h150v23" fill="none" stroke="#D8572C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M879 409h156" fill="none" stroke="#EDB89D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M879 437h118" fill="none" stroke="#EDB89D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="489" width="240" height="123" rx="26" fill="#F2D8C9" stroke="none" stroke-width="0"/><rect x="480" y="479" width="240" height="123" rx="26" fill="#FFFFFF" stroke="#F7C9B2" stroke-width="5"/>
+<path d="m532 517-21 22 21 22m136-44 21 22-21 22M613 511l-25 56" fill="none" stroke="#D8572C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="714" cy="583" r="36" fill="#FFFFFF" stroke="#D8572C" stroke-width="7"/><path d="m698 583 11 11 23-26" fill="none" stroke="#F56539" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Electric vehicle charging beside an orange charging station</title>
+  <defs>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#FF9569"/><stop offset="1" stop-color="#F56539"/></linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="48" fill="#FFF9F5"/>
+  <ellipse cx="600" cy="350" rx="305" ry="248" fill="#FFECE2"/>
+  <ellipse cx="600" cy="615" rx="300" ry="15" fill="#F5DECF"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M715 293h32c55 0 55 68 55 119v60c0 63-67 63-67 4v-54" fill="none" stroke="#D8572C" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="446" y="151" width="271" height="405" rx="30" fill="#F1D2BF" stroke="none" stroke-width="7"/>
+<rect x="434" y="135" width="271" height="405" rx="30" fill="#FFFFFF" stroke="#D8572C" stroke-width="8"/>
+<rect x="467" y="174" width="205" height="155" rx="18" fill="#FFF0E7" stroke="none" stroke-width="7"/>
+<path d="m584 195-58 76h46l-12 41 61-78h-45Z" fill="url(#accent)" stroke="#D8572C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="477" y="355" width="184" height="27" rx="10" fill="#FFE3D2" stroke="none" stroke-width="7"/>
+<rect x="489" y="361" width="30" height="15" rx="4" fill="#F56539" stroke="none" stroke-width="7"/><rect x="531" y="361" width="30" height="15" rx="4" fill="#F56539" stroke="none" stroke-width="7"/><rect x="573" y="361" width="30" height="15" rx="4" fill="#F56539" stroke="none" stroke-width="7"/><rect x="615" y="361" width="30" height="15" rx="4" fill="#FFFFFF" stroke="none" stroke-width="7"/>
+<rect x="528" y="414" width="76" height="69" rx="15" fill="#FFF0E7" stroke="#D8572C" stroke-width="7"/>
+<path d="M550 435v16m32-16v16" fill="none" stroke="#D8572C" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M737 418v-35m-12 1v-21m24 21v-21" fill="none" stroke="#D8572C" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M156 482v-69l57-73h182l63 73v69Z" fill="#FFFFFF" stroke="#D8572C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m229 359-37 53h224l-44-53Z" fill="#FFE3D2" stroke="#D8572C" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M307 359v53" fill="none" stroke="#D8572C" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="216" cy="482" r="31" fill="#FFFFFF" stroke="#D8572C" stroke-width="10"/><circle cx="393" cy="482" r="31" fill="#FFFFFF" stroke="#D8572C" stroke-width="10"/>
+<path d="M170 441h34m199 0h37" fill="none" stroke="#F56539" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="853" y="228" width="211" height="221" rx="26" fill="#F2D8C9" stroke="none" stroke-width="0"/><rect x="853" y="218" width="211" height="221" rx="26" fill="#FFFFFF" stroke="#F7C9B2" stroke-width="5"/>
+<circle cx="958" cy="328" r="62" fill="#FFE5D6" stroke="none" stroke-width="0"/>
+<path d="M935 367c-40-53 5-78 67-81 0 53-17 86-67 81Zm0 0 43-51" fill="#FFFFFF" stroke="#D8572C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M841 538h212" fill="none" stroke="#EDBC9F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+
+  </g>
+</svg>

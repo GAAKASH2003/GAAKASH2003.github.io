@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-labelledby="title">
+  <title id="title">Trophy with a star and achievement podium</title>
+  <defs><linearGradient id="cup" x2="1" y2="1"><stop stop-color="#FFAA77"/><stop offset="1" stop-color="#F56539"/></linearGradient></defs>
+  <ellipse cx="300" cy="210" rx="224" ry="180" fill="#FFF0E7"/>
+  <ellipse cx="302" cy="394" rx="218" ry="13" fill="#F7DDCD"/>
+  <g stroke="#D8572C" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M207 104h-55v35c0 48 29 77 80 80m161-115h55v35c0 48-29 77-80 80" fill="none"/>
+    <path d="M207 79h186v86c0 59-39 102-93 102s-93-43-93-102Z" fill="url(#cup)"/>
+    <path d="M228 100v65c0 35 15 63 39 77" fill="none" stroke="#FFD8B6" stroke-width="9"/>
+    <path d="m300 123 14 29 32 5-23 23 5 32-28-15-28 15 5-32-23-23 32-5Z" fill="#FFFFFF"/>
+    <path d="M283 266v49h-27v26h88v-26h-27v-49" fill="#FFD4B7"/>
+    <rect x="230" y="336" width="140" height="54" rx="10" fill="#FFFFFF"/>
+    <rect x="110" y="355" width="97" height="35" rx="8" fill="#FFE0CB" stroke="#EFB08D"/>
+    <rect x="393" y="365" width="97" height="25" rx="8" fill="#FFE0CB" stroke="#EFB08D"/>
+    <path d="M262 363h76" stroke="#F56539" stroke-width="10"/>
+    <path d="m123 83 5 16 17 5-17 5-5 16-5-16-17-5 17-5Zm351 160 5 16 17 5-17 5-5 16-5-16-17-5 17-5Z" fill="#F56539" stroke="none"/>
+    <path d="m447 66 12-15m-325 233-13 10M491 159l15 6" stroke="#F56539" stroke-width="8"/>
+  </g>
+  <circle cx="98" cy="207" r="9" fill="#F8C5A7"/><circle cx="395" cy="46" r="7" fill="#F8C5A7"/>
+</svg>
